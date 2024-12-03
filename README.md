@@ -15,8 +15,11 @@ We did this to solve the problem. We concluded that...
 ## Data
 
 Here is an overview of the dataset, how it was obtained and the preprocessing steps taken, with some plots!
+Here is a sample of the Titanic Dataset:
+![image](https://github.com/user-attachments/assets/5f5eb7c3-dfd1-410b-b8a4-2fb7ff70dc95)
 
 ![](assets/IMG/datapenguin.png){: width="500" }
+
 
 *Figure 1: Here is a caption for my diagram. This one shows a pengiun [1].*
 
