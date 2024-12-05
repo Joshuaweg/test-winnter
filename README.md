@@ -189,6 +189,6 @@ pick the best model at predicting
 Here is how this work could be developed further in a future project.
 
 ## References
-[1] DALL-E 3
+[1] Titanic - Machine Learning from Diaster (https://www.kaggle.com/c/titanic/data)
 
 [back](./)
